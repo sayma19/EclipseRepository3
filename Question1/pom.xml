@@ -8,7 +8,7 @@
 	<packaging>war</packaging>
 	<name>Question1</name>
 	<properties>
-		<springframework.version>4.3.3.RELEASE</springframework.version>
+		<springframework.version>5.2.20.RELEASE</springframework.version>
 	</properties>
 	<dependencies>
 		<dependency>
